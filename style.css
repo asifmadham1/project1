@@ -1,0 +1,16 @@
+.tagline{
+    letter-spacing: 5px;
+    text-transform: capitalize;
+}
+.navbar {
+    background: linear-gradient(to right,purple, black,green, red ,yellow);
+}
+.primary-nav .nav-link{
+    color:#fff;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    margin-right: 20px;
+    
+}
+
